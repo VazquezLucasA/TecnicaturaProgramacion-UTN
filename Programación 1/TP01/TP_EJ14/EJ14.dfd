@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+velSon
+3
+343
+6
+tiempo
+1
+0
+9
+distancia
+1
+0
+4
+1
+90
+'Ingrese la cantidad de segundos transcurridos desde que vio el rayo hasta que lo escuchó'
+5
+1
+6
+tiempo
+6
+1
+9
+distancia
+15
+tiempo * velSon
+4
+1
+59
+distancia , ' metros es la distancia a la que cayó el rayo'
+1

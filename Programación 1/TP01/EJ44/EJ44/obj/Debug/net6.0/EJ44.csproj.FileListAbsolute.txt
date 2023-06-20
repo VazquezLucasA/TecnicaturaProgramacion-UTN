@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\bin\Debug\net6.0\EJ44.exe
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\bin\Debug\net6.0\EJ44.deps.json
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\bin\Debug\net6.0\EJ44.runtimeconfig.json
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\bin\Debug\net6.0\EJ44.dll
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\bin\Debug\net6.0\EJ44.pdb
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\obj\Debug\net6.0\EJ44.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\obj\Debug\net6.0\EJ44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\obj\Debug\net6.0\EJ44.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\obj\Debug\net6.0\EJ44.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\obj\Debug\net6.0\EJ44.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\obj\Debug\net6.0\EJ44.dll
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\obj\Debug\net6.0\refint\EJ44.dll
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\obj\Debug\net6.0\EJ44.pdb
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\obj\Debug\net6.0\EJ44.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\EJ44\EJ44\obj\Debug\net6.0\ref\EJ44.dll

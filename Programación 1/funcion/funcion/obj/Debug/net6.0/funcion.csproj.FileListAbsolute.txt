@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\obj\Debug\net6.0\funcion.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\obj\Debug\net6.0\funcion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\obj\Debug\net6.0\funcion.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\obj\Debug\net6.0\funcion.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\obj\Debug\net6.0\funcion.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\bin\Debug\net6.0\funcion.exe
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\bin\Debug\net6.0\funcion.deps.json
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\bin\Debug\net6.0\funcion.runtimeconfig.json
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\bin\Debug\net6.0\funcion.dll
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\bin\Debug\net6.0\funcion.pdb
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\obj\Debug\net6.0\funcion.dll
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\obj\Debug\net6.0\refint\funcion.dll
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\obj\Debug\net6.0\funcion.pdb
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\obj\Debug\net6.0\funcion.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\funcion\funcion\obj\Debug\net6.0\ref\funcion.dll

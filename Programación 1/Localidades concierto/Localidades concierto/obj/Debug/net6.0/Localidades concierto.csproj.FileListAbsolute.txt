@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\bin\Debug\net6.0\Localidades concierto.exe
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\bin\Debug\net6.0\Localidades concierto.deps.json
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\bin\Debug\net6.0\Localidades concierto.runtimeconfig.json
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\bin\Debug\net6.0\Localidades concierto.dll
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\bin\Debug\net6.0\Localidades concierto.pdb
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\obj\Debug\net6.0\Localidades concierto.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\obj\Debug\net6.0\Localidades concierto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\obj\Debug\net6.0\Localidades concierto.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\obj\Debug\net6.0\Localidades concierto.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\obj\Debug\net6.0\Localidades concierto.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\obj\Debug\net6.0\Localidades concierto.dll
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\obj\Debug\net6.0\refint\Localidades concierto.dll
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\obj\Debug\net6.0\Localidades concierto.pdb
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\obj\Debug\net6.0\Localidades concierto.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Localidades concierto\Localidades concierto\obj\Debug\net6.0\ref\Localidades concierto.dll

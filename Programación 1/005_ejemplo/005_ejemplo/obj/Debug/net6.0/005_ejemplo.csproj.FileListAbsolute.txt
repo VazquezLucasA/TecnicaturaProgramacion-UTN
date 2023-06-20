@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\obj\Debug\net6.0\005_ejemplo.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\obj\Debug\net6.0\005_ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\obj\Debug\net6.0\005_ejemplo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\obj\Debug\net6.0\005_ejemplo.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\obj\Debug\net6.0\005_ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\bin\Debug\net6.0\005_ejemplo.exe
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\bin\Debug\net6.0\005_ejemplo.deps.json
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\bin\Debug\net6.0\005_ejemplo.runtimeconfig.json
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\bin\Debug\net6.0\005_ejemplo.dll
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\bin\Debug\net6.0\005_ejemplo.pdb
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\obj\Debug\net6.0\005_ejemplo.dll
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\obj\Debug\net6.0\refint\005_ejemplo.dll
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\obj\Debug\net6.0\005_ejemplo.pdb
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\obj\Debug\net6.0\005_ejemplo.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Programacion 1 prog\005_ejemplo\005_ejemplo\obj\Debug\net6.0\ref\005_ejemplo.dll

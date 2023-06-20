@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\bin\Debug\net6.0\TP_EJ02.exe
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\bin\Debug\net6.0\TP_EJ02.deps.json
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\bin\Debug\net6.0\TP_EJ02.runtimeconfig.json
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\bin\Debug\net6.0\TP_EJ02.dll
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\bin\Debug\net6.0\TP_EJ02.pdb
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\obj\Debug\net6.0\TP_EJ02.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\obj\Debug\net6.0\TP_EJ02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\obj\Debug\net6.0\TP_EJ02.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\obj\Debug\net6.0\TP_EJ02.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\obj\Debug\net6.0\TP_EJ02.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\obj\Debug\net6.0\TP_EJ02.dll
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\obj\Debug\net6.0\refint\TP_EJ02.dll
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\obj\Debug\net6.0\TP_EJ02.pdb
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\obj\Debug\net6.0\TP_EJ02.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Programacion 1 prog\TP01\TP_EJ02\TP_EJ02\TP_EJ02\obj\Debug\net6.0\ref\TP_EJ02.dll

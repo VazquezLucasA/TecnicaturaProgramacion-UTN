@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\bin\Debug\net6.0\Taller 9.exe
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\bin\Debug\net6.0\Taller 9.deps.json
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\bin\Debug\net6.0\Taller 9.runtimeconfig.json
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\bin\Debug\net6.0\Taller 9.dll
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\bin\Debug\net6.0\Taller 9.pdb
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\obj\Debug\net6.0\Taller 9.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\obj\Debug\net6.0\Taller 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\obj\Debug\net6.0\Taller 9.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\obj\Debug\net6.0\Taller 9.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\obj\Debug\net6.0\Taller 9.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\obj\Debug\net6.0\Taller 9.dll
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\obj\Debug\net6.0\refint\Taller 9.dll
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\obj\Debug\net6.0\Taller 9.pdb
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\obj\Debug\net6.0\Taller 9.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\Taller 9\Taller 9\obj\Debug\net6.0\ref\Taller 9.dll

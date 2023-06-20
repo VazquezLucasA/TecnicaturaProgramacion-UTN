@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\obj\Debug\net6.0\MENU COMPLETO.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\obj\Debug\net6.0\MENU COMPLETO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\obj\Debug\net6.0\MENU COMPLETO.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\obj\Debug\net6.0\MENU COMPLETO.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\obj\Debug\net6.0\MENU COMPLETO.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\bin\Debug\net6.0\MENU COMPLETO.exe
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\bin\Debug\net6.0\MENU COMPLETO.deps.json
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\bin\Debug\net6.0\MENU COMPLETO.runtimeconfig.json
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\bin\Debug\net6.0\MENU COMPLETO.dll
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\bin\Debug\net6.0\MENU COMPLETO.pdb
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\obj\Debug\net6.0\MENU COMPLETO.dll
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\obj\Debug\net6.0\refint\MENU COMPLETO.dll
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\obj\Debug\net6.0\MENU COMPLETO.pdb
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\obj\Debug\net6.0\MENU COMPLETO.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Estudios\UTN\2Programacion 1 UTN\ejercicios\MENU COMPLETO\MENU COMPLETO\obj\Debug\net6.0\ref\MENU COMPLETO.dll
